@@ -1,2 +1,2 @@
-# ruby.thuc_hanh.hello_world
-Ứng dụng Hello World sử dụng Ruby
+# ruby-basic-programming
+Basic Ruby Programming
